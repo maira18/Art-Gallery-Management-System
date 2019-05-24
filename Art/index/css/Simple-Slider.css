@@ -1,0 +1,76 @@
+.simple-slider .swiper-slide {
+  height:500px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+
+.simple-slider .swiper-button-next, .simple-slider .swiper-button-prev {
+  width:50px;
+  margin-left:20px;
+  margin-right:20px;
+}
+
+@media (max-width:767px) {
+  .simple-slider .swiper-button-next, .simple-slider .swiper-button-prev {
+    display:none;
+  }
+}
+
+@media (max-width:767px) {
+  .simple-slider .swiper-slide {
+    height:360px;
+  }
+}
+
+#services {
+  text-align:center;
+  padding:30px;
+  margin-top:auto;
+}
+
+#service-para {
+  background:url(../../assets/img/5_piece_city_black_and_white_canvas_landscape_pictures_home_wall_art_decor_vvvart__19317.1430286482.760.1000.jpg) no-repeat;
+  padding:100px;
+  background-size:cover;
+}
+
+.h2, h2 {
+  font-weight:500;
+  margin-top:15px;
+  margin-bottom:30px;
+}
+
+@media (min-width: 992px) {
+  #item-ser.servies-items h2 {
+    font-weight:normal;
+    font-size:30px;
+    margin-top:30px;
+    margin-bottom:30px;
+  }
+}
+
+#service-image {
+  text-align:center;
+  vertical-align:middle;
+  border-style:none;
+}
+
+.h1, h1 {
+  text-align:center;
+  margin-top:auto;
+  margin-bottom:auto;
+}
+
+.h2, h2 {
+  text-align:center;
+  margin-top:auto;
+  font-weight:500;
+}
+
+#contact {
+  text-align:center;
+  background:url(../../assets/img/5_piece_city_black_and_white_canvas_landscape_pictures_home_wall_art_decor_vvvart__19317.1430286482.760.1000.jpg) no-repeat;
+  background-size:cover;
+}
+

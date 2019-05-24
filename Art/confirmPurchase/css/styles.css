@@ -1,0 +1,13 @@
+.image-class {
+  height:4.6cm;
+  width:6cm;
+  border-radius:30px;
+}
+
+body {
+  padding-top:60px;
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+}
+

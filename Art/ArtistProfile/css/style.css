@@ -1,0 +1,15 @@
+.gradient {
+  background:rgba(23,162,184,0.25);
+  color:#ffffff;
+}
+
+.portfolio-block.block-intro .avatar {
+  width:200px;
+  height:200px;
+  background-size:cover;
+  background-repeat:no-repeat;
+  margin:auto;
+  border-radius:300px;
+  margin-bottom:30px;
+}
+
